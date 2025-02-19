@@ -2,7 +2,7 @@ title: "[Documentation]"
 labels: [Docs]
 body:
   - type: markdown
-    attibutes:
+    attributes:
       value: |
         Thank you for helping us improve **Salt**!
   - type: textarea
