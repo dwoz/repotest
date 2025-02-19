@@ -1,4 +1,8 @@
 body:
+  - type: text
+    id: title
+    attributes:
+      label: Title
   - type: markdown
     attributes:
       value: foo
