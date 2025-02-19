@@ -1,5 +1,5 @@
 body:
-  - type: text
+  - type: input
     id: title
     attributes:
       label: Title
