@@ -27,9 +27,13 @@ body:
   - type: textarea
     id: versions
     attributes:
-      render: shell
       label: Versions Report(s)
       description: Versions reports for any affected components (master, minsions, ect).
+      value: |
+        `salt --versions-report`
+        ```yaml
+        PASTE HERE
+        ```
   - type: textarea
     id: screenshots
     attributes:
