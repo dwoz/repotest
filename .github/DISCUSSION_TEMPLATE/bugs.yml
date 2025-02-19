@@ -4,6 +4,5 @@ body:
     attributes:
       label: Title
   - type: markdown
-    attributes:
-      value: foo
+    id: description
 
